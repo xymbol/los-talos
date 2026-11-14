@@ -1,0 +1,2316 @@
+[
+  {
+    "codigo": "P01",
+    "nombre": "Pollo al limón con papas",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "C01",
+        "cantidad": 160.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H01",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H08",
+        "cantidad": 25.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 12.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A08",
+        "cantidad": 12.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P02",
+    "nombre": "Ñoquis con tomate y jamón",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "H01",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "A01",
+        "cantidad": 70.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L05",
+        "cantidad": 0.25,
+        "unidad": "unidad",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S01",
+        "cantidad": 110.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P03",
+    "nombre": "Tortilla de papa y panceta",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "H01",
+        "cantidad": 220.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 50.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "L05",
+        "cantidad": 2.0,
+        "unidad": "unidad",
+        "estado": "bruto"
+      },
+      {
+        "producto": "C05",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 15.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A08",
+        "cantidad": 10.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P04",
+    "nombre": "Canelones del patio",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S06",
+        "cantidad": 210.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 25.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S07",
+        "cantidad": 120.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "L01",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P05",
+    "nombre": "Arroz con pollo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S09",
+        "cantidad": 260.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 120.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P06",
+    "nombre": "Bondiola al fondo rojo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S13",
+        "cantidad": 150.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C03",
+        "cantidad": 170.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P07",
+    "nombre": "Braseado de la estación",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 210.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 155.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P08",
+    "nombre": "Merluza con crema",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S08",
+        "cantidad": 110.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C04",
+        "cantidad": 170.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A04",
+        "cantidad": 130.0,
+        "unidad": "g",
+        "estado": "cocido"
+      }
+    ]
+  },
+  {
+    "codigo": "P09",
+    "nombre": "Lentejas con chorizo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S10",
+        "cantidad": 280.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C06",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P10",
+    "nombre": "Ñoquis al ragú",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S03",
+        "cantidad": 250.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 65.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S14",
+        "cantidad": 120.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P11",
+    "nombre": "Cazuela del Término",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S14",
+        "cantidad": 240.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C03",
+        "cantidad": 70.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "H05",
+        "cantidad": 120.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P12",
+    "nombre": "Pollo del aljibe",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S09",
+        "cantidad": 230.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 150.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P13",
+    "nombre": "Pastel de carne",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 230.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 140.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L07",
+        "cantidad": 10.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P14",
+    "nombre": "Panqueques de pollo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S06",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 45.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S07",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P15",
+    "nombre": "Arroz con atún",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S09",
+        "cantidad": 240.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C07",
+        "cantidad": 90.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P16",
+    "nombre": "Tostón de bondiola",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S13",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C03",
+        "cantidad": 140.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A06",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "limpio"
+      }
+    ]
+  },
+  {
+    "codigo": "P17",
+    "nombre": "Cazuela marinera",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S01",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C04",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A07",
+        "cantidad": 60.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P18",
+    "nombre": "Lentejas de invierno",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S10",
+        "cantidad": 270.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C05",
+        "cantidad": 65.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P19",
+    "nombre": "Pollo con hierbas",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S08",
+        "cantidad": 130.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 160.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P20",
+    "nombre": "Puré con chorizos",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 240.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C06",
+        "cantidad": 135.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P21",
+    "nombre": "Ragú con arroz",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S14",
+        "cantidad": 220.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A02",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P22",
+    "nombre": "Bondiola a la crema",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S05",
+        "cantidad": 140.0,
+        "unidad": "ml",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C03",
+        "cantidad": 165.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P23",
+    "nombre": "Pescado del muelle",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S09",
+        "cantidad": 220.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C04",
+        "cantidad": 160.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P24",
+    "nombre": "Croquetas de pollo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S06",
+        "cantidad": 250.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C05",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L08",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P25",
+    "nombre": "Braseado de la casa",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S13",
+        "cantidad": 190.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P26",
+    "nombre": "Papas de la terraza",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 250.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 80.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P27",
+    "nombre": "Ñoquis con panceta",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S03",
+        "cantidad": 260.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C05",
+        "cantidad": 70.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L02",
+        "cantidad": 30.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P28",
+    "nombre": "Lentejas con bondiola",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S10",
+        "cantidad": 250.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C03",
+        "cantidad": 110.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P29",
+    "nombre": "Pollo en fondo rojo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S13",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 155.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P30",
+    "nombre": "Canelones gratinados",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S06",
+        "cantidad": 220.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S07",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "L01",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P31",
+    "nombre": "Arroz del domingo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S09",
+        "cantidad": 230.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C06",
+        "cantidad": 110.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "H05",
+        "cantidad": 80.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P32",
+    "nombre": "Carne de sobremesa",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 212.1,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 156.55,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.4,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.08,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.15,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P33",
+    "nombre": "Merluza al limón",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S12",
+        "cantidad": 45.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C04",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P34",
+    "nombre": "Panqueque del salón",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S07",
+        "cantidad": 160.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 130.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L08",
+        "cantidad": 60.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P35",
+    "nombre": "Carne con crema verde",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S08",
+        "cantidad": 140.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 160.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P36",
+    "nombre": "Timbal de atún",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 230.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C07",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L06",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P37",
+    "nombre": "Arroz de la galería",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S09",
+        "cantidad": 232.3,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 151.5,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.4,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.08,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.15,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P38",
+    "nombre": "Pollo con salsa blanca",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S05",
+        "cantidad": 180.0,
+        "unidad": "ml",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 155.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P39",
+    "nombre": "Bondiola con lentejas",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S10",
+        "cantidad": 230.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C03",
+        "cantidad": 145.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P40",
+    "nombre": "Ragú con puré",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S14",
+        "cantidad": 240.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C05",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S11",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P41",
+    "nombre": "Chorizo con tomate",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S01",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C06",
+        "cantidad": 150.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A06",
+        "cantidad": 90.0,
+        "unidad": "g",
+        "estado": "limpio"
+      }
+    ]
+  },
+  {
+    "codigo": "P42",
+    "nombre": "Cazuela de septiembre",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S10",
+        "cantidad": 272.7,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C05",
+        "cantidad": 65.65,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.4,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.08,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.15,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P43",
+    "nombre": "Arroz cremoso con jamón",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S05",
+        "cantidad": 190.0,
+        "unidad": "ml",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 90.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A02",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "cocido"
+      }
+    ]
+  },
+  {
+    "codigo": "P44",
+    "nombre": "Croquetas marineras",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C04",
+        "cantidad": 150.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P45",
+    "nombre": "Ñoquis con pollo",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S03",
+        "cantidad": 230.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 130.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S01",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P46",
+    "nombre": "Carne con limón",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S12",
+        "cantidad": 50.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 185.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.0,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P47",
+    "nombre": "Arroz costero",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S09",
+        "cantidad": 222.2,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C04",
+        "cantidad": 161.6,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.4,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.08,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.15,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P48",
+    "nombre": "Bowl de la huerta",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "A03",
+        "cantidad": 210.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H04",
+        "cantidad": 90.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "A02",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P49",
+    "nombre": "Puré de la ochava",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 252.5,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 80.8,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 40.4,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.08,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S15",
+        "cantidad": 15.15,
+        "unidad": "g",
+        "estado": "preparado"
+      }
+    ]
+  },
+  {
+    "codigo": "P50",
+    "nombre": "Merluza a las hierbas",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "S11",
+        "cantidad": 220.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C04",
+        "cantidad": 175.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H07",
+        "cantidad": 8.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 8.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S01",
+    "nombre": "Salsa de tomate",
+    "rendimiento": 1000.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "H03",
+        "cantidad": 600.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 40.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S02",
+    "nombre": "Caldo de cocina",
+    "rendimiento": 4000.0,
+    "unidad_rendimiento": "ml",
+    "ingredientes": [
+      {
+        "producto": "H02",
+        "cantidad": 400.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "H04",
+        "cantidad": 300.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 600.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S03",
+    "nombre": "Ñoquis de papa",
+    "rendimiento": 2000.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "H01",
+        "cantidad": 1300.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "A01",
+        "cantidad": 500.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L05",
+        "cantidad": 2.0,
+        "unidad": "unidad",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S04",
+    "nombre": "Roux",
+    "rendimiento": 400.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "A01",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L04",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S05",
+    "nombre": "Salsa blanca",
+    "rendimiento": 1000.0,
+    "unidad_rendimiento": "ml",
+    "ingredientes": [
+      {
+        "producto": "S04",
+        "cantidad": 150.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "L03",
+        "cantidad": 850.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S06",
+    "nombre": "Relleno de pollo",
+    "rendimiento": 900.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "S05",
+        "cantidad": 200.0,
+        "unidad": "ml",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C01",
+        "cantidad": 500.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H06",
+        "cantidad": 100.0,
+        "unidad": "g",
+        "estado": "cocido"
+      }
+    ]
+  },
+  {
+    "codigo": "S07",
+    "nombre": "Masa de panqueque",
+    "rendimiento": 1200.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "A01",
+        "cantidad": 400.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L03",
+        "cantidad": 700.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L05",
+        "cantidad": 3.0,
+        "unidad": "unidad",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S08",
+    "nombre": "Crema de hierbas",
+    "rendimiento": 1000.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "H07",
+        "cantidad": 60.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "L02",
+        "cantidad": 700.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L06",
+        "cantidad": 250.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S09",
+    "nombre": "Arroz de cocina",
+    "rendimiento": 2500.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "A02",
+        "cantidad": 850.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S02",
+        "cantidad": 1800.0,
+        "unidad": "ml",
+        "estado": "preparado"
+      },
+      {
+        "producto": "L04",
+        "cantidad": 40.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S10",
+    "nombre": "Guiso de lentejas",
+    "rendimiento": 3000.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "A03",
+        "cantidad": 900.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S02",
+        "cantidad": 1600.0,
+        "unidad": "ml",
+        "estado": "preparado"
+      },
+      {
+        "producto": "H04",
+        "cantidad": 400.0,
+        "unidad": "g",
+        "estado": "limpio"
+      }
+    ]
+  },
+  {
+    "codigo": "S11",
+    "nombre": "Puré de papa",
+    "rendimiento": 2000.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "H01",
+        "cantidad": 1700.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "L03",
+        "cantidad": 250.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L04",
+        "cantidad": 50.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S12",
+    "nombre": "Aderezo de limón",
+    "rendimiento": 500.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "H08",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 300.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "H07",
+        "cantidad": 20.0,
+        "unidad": "g",
+        "estado": "limpio"
+      }
+    ]
+  },
+  {
+    "codigo": "S13",
+    "nombre": "Fondo rojo",
+    "rendimiento": 2500.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "S01",
+        "cantidad": 1000.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "S02",
+        "cantidad": 1300.0,
+        "unidad": "ml",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 300.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S14",
+    "nombre": "Ragú del salón",
+    "rendimiento": 2500.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "S13",
+        "cantidad": 1400.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C02",
+        "cantidad": 900.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "limpio"
+      }
+    ]
+  },
+  {
+    "codigo": "S15",
+    "nombre": "Miga tostada",
+    "rendimiento": 500.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "A08",
+        "cantidad": 430.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L04",
+        "cantidad": 50.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "H07",
+        "cantidad": 20.0,
+        "unidad": "g",
+        "estado": "limpio"
+      }
+    ]
+  }
+]
